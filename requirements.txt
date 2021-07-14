@@ -1,0 +1,6 @@
+FLask==2.0.1
+Flask-RESTful==0.3.9
+Flask-JWT-Extended==4.2.3
+Flask-SQLAlchemy==2.5.1
+python-dotenv==0.18.0
+Flask-Admin==1.5.8
